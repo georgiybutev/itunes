@@ -1,5 +1,6 @@
 # itunes
 Online music store written in Java and JSP
+Read the report for detailed information.
 
 Title: Assignment #2 - Online Shopping
 Author: Georgi Butev 
