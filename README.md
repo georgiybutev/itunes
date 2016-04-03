@@ -2,6 +2,8 @@
 Online music store written in Java and JSP
 Read the report for detailed information.
 
+![alt tag](http://i.imgur.com/n5X9lDU.png)
+
 Title: Assignment #2 - Online Shopping
 Author: Georgi Butev 
 Lecturer: Dr Perry Xiao
